@@ -5,4 +5,7 @@
 git init        ---创建本地仓库
 
 ssh-keygen -t rsa -C "你的GitHub注册邮箱"-----------本地创建 SSH key，之后需要上传秘钥，这个用于将自己的文件上传到到服务器上你的仓库里面。
+git status: 查看仓库的状态
+git add: 向暂存区添加文件
+git commit: 保存仓库的历史记录
 
